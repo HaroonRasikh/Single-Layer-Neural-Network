@@ -1,5 +1,5 @@
 **This project's code was developed under the guidance of Prof.Dr. MURAT EKİNCİ in the Neural Network course at Karadeniz Technical University in Computer Science Field.
-You can find the reports written about the project in the repository**
+You can find the reports pdf written about the project in the repository.**
 
 
 This Two project presents an interactive graphical tool for exploring and understanding Single Layer and Multi - Class Single Layer perceptron learning and visualization of the decision boundary. Users can intuitively interact with the application by adding data points and training a perceptron model to classify points into multiple classes using the sigmoid activation function.
