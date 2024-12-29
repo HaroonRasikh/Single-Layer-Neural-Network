@@ -31,3 +31,20 @@ This project includes two dropdown menus. The first dropdown allows you to selec
 ![image](https://github.com/user-attachments/assets/3954c3f8-00f8-4b6d-a9be-4ffdb9b61fa7)
 
 
+--------------------------------------------------**Multi-Layer**--------------------------------------------------------------
+
+This code is similar to a multi-class single-layer network, but with a few key differences. It includes a hidden input layer with multiple neurons, and it uses the ReLU activation function for added flexibility and performance.
+
+
+
+**Input Window before Training Model**
+
+![image](https://github.com/user-attachments/assets/f6990a66-3f6a-48a4-8d45-c97a5b4d841c)
+![image](https://github.com/user-attachments/assets/44f61ada-40e1-440d-8e64-ff6bbdd5f719)
+
+
+
+**Output Window after Training Model**
+
+![image](https://github.com/user-attachments/assets/50621693-dd03-4467-8272-4ba0b07b2481)
+
